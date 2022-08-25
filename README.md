@@ -49,6 +49,7 @@
 * github - mysql ：[https://github.com/mindskip/xzs-mysql](https://github.com/mindskip/xzs-mysql)
 
 
+
 ### 学生系统功能
 
 |  模块   | 介绍  |
@@ -124,7 +125,7 @@
         <td><img src="https://www.mindskip.net/style/git/images/wx/student/4.png"/></td>
     </tr>
     <tr>
-        <td><img src="https://www.mindskip.net/style/git/images/wx/student/5.png"/></td>
+        <td><img src="https://www.mindskip.net/style/git/images/wx/student/10.png"/></td>
         <td><img src="https://www.mindskip.net/style/git/images/wx/student/8.png"/></td>
         <td><img src="https://www.mindskip.net/style/git/images/wx/student/6.png"/></td>
         <td><img src="https://www.mindskip.net/style/git/images/wx/student/7.png"/></td>

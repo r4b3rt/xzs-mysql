@@ -22,6 +22,8 @@
         <spring.boot.version>2.1.6.RELEASE</spring.boot.version>
     </properties>
 
+
+
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
@@ -29,9 +31,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
+
     <issueManagement>
-        <system>Github Issue</system>
-        <url>https://github.com/mindskip/xzs-mysql/issues</url>
+        <system>Gitee Issue</system>
+        <url>https://gitee.com/mindskip/xzs-mysql/issues</url>
     </issueManagement>
 
     <licenses>
@@ -50,10 +53,11 @@
     </developers>
 
     <scm>
-        <connection>scm:git@github.com:mindskip/xzs-mysql.git</connection>
-        <developerConnection>scm:git@github.com:mindskip/xzs-mysql.git</developerConnection>
-        <url>git@github.com:mindskip/xzs-mysql.git</url>
+        <connection>scm:git@gitee.com:mindskip/xzs-mysql.git</connection>
+        <developerConnection>scm:git@gitee.com:mindskip/xzs-mysql.git</developerConnection>
+        <url>git@gitee.com:mindskip/xzs-mysql.git</url>
     </scm>
+
 
     <repositories>
         <repository>
