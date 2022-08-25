@@ -3,8 +3,6 @@ package com.mindskip.xzs.viewmodel.admin.user;
 import com.mindskip.xzs.base.BasePage;
 
 
-
-
 public class UserEventPageRequestVM extends BasePage {
 
     private Integer userId;

@@ -17,10 +17,9 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.io.InputStream;
 
-
 /**
  * @version 3.5.0
- * @description: 登录参数序列化
+ * @description:  登录参数序列化
  * Copyright (C), 2020-2021, 武汉思维跳跃科技有限公司
  * @date 2021/12/25 9:45
  */

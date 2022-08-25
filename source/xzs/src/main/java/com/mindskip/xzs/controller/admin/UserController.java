@@ -23,7 +23,6 @@ import java.util.Date;
 import java.util.List;
 import java.util.UUID;
 
-
 @RestController("AdminUserController")
 @RequestMapping(value = "/api/admin/user")
 public class UserController extends BaseApiController {

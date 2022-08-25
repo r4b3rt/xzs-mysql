@@ -4,7 +4,6 @@ import com.mindskip.xzs.domain.User;
 import com.mindskip.xzs.utility.DateTimeUtil;
 import com.mindskip.xzs.viewmodel.BaseVM;
 
-
 public class UserResponseVM extends BaseVM {
 
     private Integer id;
